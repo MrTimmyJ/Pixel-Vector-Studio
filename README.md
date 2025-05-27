@@ -48,7 +48,7 @@ Whether you're creating retro art or building a pixel-based tile system, this ap
 
     Draw on the canvas and manage layers
 
-    Save or export your creation (coming soon)
+    Save or export your creation
 
     Continue editing with full undo/redo support
 
@@ -56,7 +56,7 @@ Whether you're creating retro art or building a pixel-based tile system, this ap
 
 🧠 Canvas System
 
-    Uses an HTML5 canvas with p5.js integration (optional)
+    Uses an HTML5 canvas with p5.js integration
 
     Supports zooming and panning with mouse or touch
 
