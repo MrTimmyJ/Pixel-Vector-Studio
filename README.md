@@ -4,7 +4,6 @@ Create pixel-perfect vector designs with this advanced editor
 Author: Timothy Johnson <br>
 Date: February 2025 to April 2025
 
-
 ### 🔗 Live Demo
 
 [Pixel Vector Studio](https://vec-art.netlify.app/)
